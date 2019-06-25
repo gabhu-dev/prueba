@@ -1,3 +1,4 @@
-const number:34;
+const number=3;
 kdsfjoizn
 fsdmndslk
+const string="blalallal";
